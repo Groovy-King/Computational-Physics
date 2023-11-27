@@ -1,0 +1,33 @@
+This output has been obtained by running the Problem_2.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+Enter the number of slices: 10
+The value of the integral (Simpson's method), using 10 slices is: 4.400426666666668
+The fractional error from the analytically obtained value is: 9.696969696992851e-05
+
+The value of the integral (Trapezoid method), using 10 slices is: 4.50656
+
+100 slices:
+-------------------
+Enter the number of slices: 100
+The value of the integral (Simpson's method), using 100 slices is: 4.400000042666666
+The fractional error from the analytically obtained value is: 9.696969490006908e-09
+
+The value of the integral (Trapezoid method), using 100 slices is: 4.401066656000001
+
+1000 slices:
+-------------------
+Enter the number of slices: 1000
+The value of the integral (Simpson's method), using 1000 slices is: 4.400000000004266
+The fractional error from the analytically obtained value is: 9.695274885953866e-13
+
+The value of the integral (Trapezoid method), using 1000 slices is: 4.400010666665601
+
+
+Remarks:
+-------------------
+Clearly, we see that the approoximation becomes better as we increase the number of slices 
+(in both methods). However, in all cases, the value produced by Simpson's method is significantly
+closer to the true value than the Trapezoidal method.

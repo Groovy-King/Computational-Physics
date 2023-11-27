@@ -1,0 +1,15 @@
+This output has been obtained by running the Problem_5.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+The value of the Integral is: 4.426660000000001
+The error in the trapezoidal integral is: 0.026633333333333137
+The error found by subtraction from true value is: 0.026660000000000572
+
+Remarks:
+-------------------
+We see that the two valyes mentioned above are not equal. This is because, the term ch**2 is not 
+the full error, but just the leading term of the error. For small values of h, this term can be 
+used to approximate the value of error entirely, but as we look closely, we see that the true error
+and the value of ch**2 vary slightly, due to the contribution of higher order terms.

@@ -1,0 +1,21 @@
+This output has been obtained by running the Problem_8.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+n = 2   I = 0.38431604889308213 err = 0.012687807742391213
+n = 4   I = 0.5746331650289503  err = 0.013870945597715316
+n = 8   I = 0.3665689810632206  err = 0.004837979678023951
+n = 16  I = 0.4391386762335799  err = 0.0010253170034309478
+n = 32  I = 0.4545184312850441  err = 8.181700486445954e-05
+n = 64  I = 0.455745686358011   err = 5.422826706643254e-06
+n = 128         I = 0.45582702875861064 err = 3.438925407069545e-07
+
+After 7 iterations, the integral converged with 128 intervals.
+The value of the integral is: I = 0.45582702875861064, and the error is: err = 3.438925407069545e-07
+
+Remarks:
+-------------------
+We see that this method converged in 7 iterations, i.e. 128 slices. This is much lesser than the 
+1024 slices that were required for the trapezoidal method, but is slightly more than the 2**6 = 64
+slices required for Romberg method. This agrees woth the expected observations given in the problem.

@@ -1,0 +1,17 @@
+This output has been obtained by running the Problem_10.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+No text output was generated.
+
+Remarks:
+-------------------
+As the amplitude increases, the restoring force F = -dV/dx = -4*x**3 increases as a**3,
+while the distance travelled per cycle only increases as a. Due to this, the time period is seen
+to decrease as the amplitude increases.
+
+Further, near the origin, the restoring is nearly zero, as the first, second and third derivative 
+of the potential are zero there. Thus, there is virtually no restoring force pulling the particle
+back to the origin in this region. Thus, even if the particle has to travel negligble distance,
+the time taken to do so diverges, as there is only a very small acceleration in the region. 
