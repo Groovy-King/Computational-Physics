@@ -1,0 +1,11 @@
+This output has been obtained by running the Problem_1.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+We roll two dice, and the observed results are:
+         Die 1 rolled 1
+         Die 2 rolled 2
+
+The expected fraction of double 6 rolls is 1/36, which is equal to: 0.02778
+The observed fraction of double 6 rolls is: 0.027872

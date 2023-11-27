@@ -1,0 +1,22 @@
+This output has been obtained by running the Problem_11.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+---------------------------------------------------------------------------
+No Text Output was generated.
+
+Remarks:
+---------------------------------------------------------------------------
+In parts (a) and (b), we simulated the aggregation of particles that began at the center of the
+lattice. We saw the complete simulation for a 75 x 75 grid, but were unable to execute a full 
+simulation of the 101 x 101 grid due to lack of computing power. However, a partial simulation
+of this case with 20 particles was performed and the results have been saved in the figure,
+'Part (a) Partial Simulation of 101x101 Lattice.png'. From the color scheme employed, we see 
+that newer particles tend to stick at closer and closer distances from the initial point, until 
+finally they stick as soon as they are dropped on the board.
+
+In part (c), we simulated particles starting at random positions around the center of the lattice.
+We see that particles tend to aggregate closely around the center, even when they are dropped 
+further and further away from the center of the lattice. The figure, 
+'Part (c) Random Initial Points Distribution.png' shows the distribution of the initial points 
+of the particles from the simulation.

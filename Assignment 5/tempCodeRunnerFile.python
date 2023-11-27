@@ -1,0 +1,5 @@
+from scipy.constants import G, k, hbar, c, pi
+
+M = 2 * 10**(30)
+
+print(8 * pi * G * k * M**2 / (c * hbar))

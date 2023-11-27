@@ -1,0 +1,10 @@
+This output has been obtained by running the Problem_6.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+The value of the integral, obtained by Monte Carlo method, is: 0.8392481053737954
+
+Remarks:
+-------------------
+We see that the value obtained is indeed close to 0.84, as mentioned in the problem statement.

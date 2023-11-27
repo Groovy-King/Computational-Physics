@@ -1,0 +1,23 @@
+This output has been obtained by running the Problem_9.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+---------------------------------------------------------------------------
+The number of dimers in the first simulation (without cooling) is: 936
+The number of dimers in the second simulation (with slow cooling) is: 1168
+The number of dimers in the third simulation (with fast cooling) is: 1093
+
+Remarks:
+---------------------------------------------------------------------------
+As expected, we see that slow cooling leads to larger number of dimers occupying the lattice, 
+while faster cooling has slightly lower numbers. However, Any form of cooling leads to an
+increase in the number of dimers that occupy the lattice sites.
+
+This is because, in the presence of cooling, dimers that are present on the lattice become 
+increasingly less likely to be removed. This leads to an overall increase in the final number of
+dimers occupying the lattice.
+
+The results from the simulations mentioned above are stored in this folder As:
+    - Dimer_Simulation.png
+    - Dimer_Simulation_with_Cooling.png
+    - Dimer_Simulation_with_Faster_Cooling.png

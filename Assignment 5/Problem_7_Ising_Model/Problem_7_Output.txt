@@ -1,0 +1,52 @@
+This output has been obtained by running the Problem_7.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-----------------------------------------------------------------
+Run - 1:
+------------------- 
+The Temperature of the system is: 1
+The final Magnetization of the system is: -400.0
+
+Run - 2:
+------------------- 
+The Temperature of the system is: 1
+The final Magnetization of the system is: -400.0
+
+Run - 3:
+------------------- 
+The Temperature of the system is: 1
+The final Magnetization of the system is: -398.0
+
+Run - 4:
+------------------- 
+The Temperature of the system is: 1
+The final Magnetization of the system is: 398.0
+
+Run - 5:
+------------------- 
+The Temperature of the system is: 2
+The final Magnetization of the system is: -354.0
+
+Run - 6:
+------------------- 
+The Temperature of the system is: 3
+The final Magnetization of the system is: 36.0
+
+
+Remarks:
+-----------------------------------------------------------------
+Above attached are the results of 6 trials of the Monte Carlo Simulation of the Ising 
+Model. We have run the first four trials at T = 1, all of which exhibited near perfect
+alignment of ALL domains in the lattice. We see that the spins sometime align upward,
+and sometimes downward, depending on the random initial state, and the random choices for
+flipping. We expect that both outcomes are equally likely, but several more trials are required 
+to establish this fact.
+
+Coming to simulations at higher Temperatures, we see that at T = 2, the system took significantly
+longer to achieve alignment of domains. As T increases, beta decreases, and the probability of
+flipping to a higher energy state increases. Therefore, the system takes longer to achieve lower
+energy states, as they are no longer heavily preferred. At T = 3, the system did not achieve
+significant domain alignment even after a million steps. As shown in both figures pertaining to 
+run 6, the lattice remains random at the end of the simulation, and no observable alignment is
+seen.

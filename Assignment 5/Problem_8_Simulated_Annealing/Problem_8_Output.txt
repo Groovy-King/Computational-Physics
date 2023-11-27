@@ -1,0 +1,12 @@
+This output has been obtained by running the Problem_8.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+---------------------------------------------------------------------------
+Part (a):
+-------------------
+The Minima of f(x) is obtained to be at: x = 0.0017836356097728516
+
+Part (b):
+-------------------
+The Minima of g(x) is obtained to be at: x = 15.978324815443917

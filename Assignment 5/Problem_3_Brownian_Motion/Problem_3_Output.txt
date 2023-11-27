@@ -1,0 +1,6 @@
+This output has been obtained by running the Problem_3.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+No text output was generated.

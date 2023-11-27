@@ -1,0 +1,15 @@
+This output has been obtained by running the Problem_4.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+The integral obtained by hit-or-miss method is: 1.449
+The error in hit-or-miss method is: 0.008935317565705205
+
+The integral obtained by mean value method is: 1.447942088652763
+The error in mean value method is: 0.005234290594639422
+
+Remarks:
+-------------------
+As mentioned in the problem, we see that the error in mean value method is slightly lower than
+the error in hit-or-miss method.
