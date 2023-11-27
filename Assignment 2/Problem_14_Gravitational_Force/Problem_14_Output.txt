@@ -1,0 +1,21 @@
+This output has been obtained by running the Problem_14.py saved in this folder.
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+No text output was generated.
+
+Remarks:
+-------------------
+In the figure 'Grav Field at various z.png', we have plotted the function 
+        f(x, y, z) = z / (x**2 + y**2 + z**2)
+As we see in the plots, the peak at the center becomes broader as z increases. However, at z = 0,
+the plot appears completely flat, even though there is a very sharp at x = y = 0, which cannot be 
+seen. This peak causes the value of the integral to be non-zero, even if the function itself is 
+zero everywhere except at x = y = 0. While calculating the integral using the Gaussian Quadrature
+method, we essentially miss the "interesting" region of the function for small z, due the extreme
+sharpness at these values.
+
+To rectify this issue, we could try increasing the v alue of N along each axis, which could allow 
+us to detect sharper and sharper peaks. However, it is very hard to completely remove this error
+if we calculate the integral using the method of Gaussian Quadrature.

@@ -1,0 +1,25 @@
+This output has been obtained by running the Problem_18.py saved in this folder.
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+The 1-order Derivative of f at zero is: 1.9999999999999925
+The 2-order Derivative of f at zero is: 3.999999999999989
+The 3-order Derivative of f at zero is: 8.000000000000004
+The 4-order Derivative of f at zero is: 16.000000000000018
+The 5-order Derivative of f at zero is: 32.00000000000002
+The 6-order Derivative of f at zero is: 64.00000000000026
+The 7-order Derivative of f at zero is: 128.00000000000173
+The 8-order Derivative of f at zero is: 255.99999999999446
+The 9-order Derivative of f at zero is: 511.99999999993497
+The 10-order Derivative of f at zero is: 1024.0000000003179
+The 11-order Derivative of f at zero is: 2048.000000003476
+The 12-order Derivative of f at zero is: 4095.999999688682
+The 13-order Derivative of f at zero is: 8191.9999981402725
+The 14-order Derivative of f at zero is: 16383.999965044224
+The 15-order Derivative of f at zero is: 32767.999566864903
+The 16-order Derivative of f at zero is: 65535.99533811723
+The 17-order Derivative of f at zero is: 131071.93354413522
+The 18-order Derivative of f at zero is: 262142.55579286345
+The 19-order Derivative of f at zero is: 524283.6734824814
+The 20-order Derivative of f at zero is: 1048175.9087952793

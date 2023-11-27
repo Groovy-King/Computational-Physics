@@ -1,0 +1,17 @@
+This output has been obtained by running the Problem_12.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+The value of the integral, by Gaussian Quadrature is: I = 6.493953623905532
+Solving the integral analytically, using Mathematica, gives: I = 6.493939402266828
+
+The value of Stefan Boltzmann constant obtained is: 5.67038684e-08
+The standard value this constant is: 5.670374419e-08
+
+The relative error is: 2.1900188835628676e-06
+
+Remarks:
+-------------------
+We see that the value we obtained for Stefan Boltzmann constant is very close to the standard 
+value.

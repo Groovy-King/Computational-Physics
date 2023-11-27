@@ -1,0 +1,16 @@
+This output has been obtained by running the Problem_15.py saved in this folder.
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+The calculated value of Gamma(3/2) is: 0.8862269613087211
+The known value of Gamma(3/2) = sqrt(pi)/2 is: 0.8862269254527579
+
+The value of Gamma(a = 3) is: 2.0000000000000004
+The value of (a - 1)! is: 2! = 2
+
+The value of Gamma(a = 6) is: 120.00000000000001
+The value of (a - 1)! is: 5! = 120
+
+The value of Gamma(a = 10) is: 362880.00000000006
+The value of (a - 1)! is: 9! = 362880
