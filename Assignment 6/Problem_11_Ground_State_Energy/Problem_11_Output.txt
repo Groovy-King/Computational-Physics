@@ -1,0 +1,36 @@
+This output has been obtained by running the Problem_11.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-----------------------------------------------------------
+Part (a):
+-------------------
+The Ground State Energy of the given Harmonic Oscillator is: 138.02141351667086 eV
+The First Excited State Energy of the given Harmonic Oscillator is: 414.0642409971525 eV
+The Second Excited State Energy of the given Harmonic Oscillator is: 690.1070694024352 eV
+
+
+The spacing between the energy levels is:
+                E_first - E_Ground = 276.04282748048166 eV
+                E_second - E_first = 276.04282840528265 eV
+
+We see that the energy levels are linearly spaced, upto a very high degree of accuracy! 
+This agrees with the theoretical results for the harmonic Oscillator.
+
+Part (b):
+-------------------
+The Ground State Energy of the given AnHarmonic Oscillator is: 205.30182913359064 eV
+The First Excited State Energy of the given AnHarmonic Oscillator is: 735.6730638196655 eV
+The Second Excited State Energy of the given AnHarmonic Oscillator is: 1443.5337424695645 eV
+
+The spacing between the energy levels is:
+                 E_first - E_Ground = 530.3712346860748 eV
+                 E_second - E_first = 707.860678649899 eV
+
+Remarks:
+-----------------------------------------------------------
+In part (c), while calculating the wavefunction, we must be careful to not include 
+the values at the right end. It is possible that these values are quite big, due to 
+possible underflow that might occur when we use the secant method to find the root.
+To avoid this, we use the idea mentioned in the problem, and use the interval -10*a to 0 
+to calculate the integral, and then normalize accordingly.

@@ -1,0 +1,33 @@
+This output has been obtained by running the Problem_8.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------------------------------------------------------
+Part (b):
+-------------------
+Time taken = 29.955179691314697 s
+
+Part (c):
+-------------------
+Time taken = 2.5899362564086914 s
+
+Remarks:
+-------------------------------------------------------------------
+Part (b)
+-------------------
+I have plotted the integrated solutions for roughly two orbits (100 years), with h = 0.001 years,
+and h = 0.0005 years. It is clearly seen that for h = 0.001, we get approximately elliptical
+orbits, but they do not form closed loops and overlap on each other.
+
+However, at h = 0.0005, the orbits are more accurate ellipses, and completely overlap on top of
+each other. I also tried the simulation with higher values of h, around 0.01, which led to 
+breakdown of the program mid-simulation. In all cases, the program completed execution within a few 
+seconds.
+
+Part (c):
+-------------------
+As we see above, the time taken in the adaptive RK4 method is much much quicker than the time taken 
+in the fixed step size method. And, the scatter plot in the figure 
+'Part (d) Scatter Plot of adaptive RK4.png' clearly shows how the step size varies along the trajectory.
+It is also clear from the plots that the adaptive step method is more accurate than the first fixed step
+result, but with a smaller step size, they are both comparable in accuracy.

@@ -1,0 +1,19 @@
+This output has been obtained by running the Problem_5.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+No text output was generated.
+
+Remarks:
+-------------------
+In the figure 'Part (c) Trajectories of different masses.png', we have plotted the trajectories of
+spherical cannon balls with different masses, but at constant radius. We see that heavier masses
+land further away from the origin as compared to lighter ones. Further, the trajectories all end
+at the same time 2.5*v0*sin(theta)/g. So, not only do the heavier cannon balls have greater range,
+they also have fallen a greater vertical distance in the same time.
+
+These interesting observations can be explained directly from the equations obtained in part (a).
+The acceleration due to drag force was obtained to be inversely proportional to the mass of the 
+cannon ball. Hence, lighter masses feel a stronger effect due the drag force, as compared to the
+heavier ones. 

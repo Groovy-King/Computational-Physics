@@ -1,0 +1,26 @@
+This output has been obtained by running the Problem_2.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+No text output was generated.
+
+Remarks:
+-------------------
+The plots clearly show a periodic behaviour in the populations of the rabbits and foxes. However,
+we note the following interesting features:
+
+    - The maximum number of rabbits is always much higher than the maximum number of foxes. The 
+      reason for this behaviour can be explained from the system of equations. Since beta = gamma,
+      the rabbits die at the same rate that foxes reproduce. However, from the given values of
+      alpha and delta, we see that foxes die twice as quickly as the rabbits reproduce. Hence,
+      the maximum number of foxes is always lower than the maximum number of rabbits.   
+
+    - The plots of rabbit and fox populations are clearly seen to be out of phase with each other.
+      This is explained as follows. When the number of rabbits reaches a maxima, the foxes have 
+      plenty of food, and hence reproduce rapidly. In a short while, this leads to a significant 
+      reduction in the rabbit population, and boom in the fox population. However, as the fox 
+      population reaches a maxima, the number of rabbits is at an all time low, and the foxes do not
+      get enough food to survive or reproduce. In a short while, this leads to a reduction in fox 
+      population, as they die of old age. With the threat of predators gone, the rabbit population
+      can once again reproduce quickly and reaches the next maxima. Thus, the cycle repeats.

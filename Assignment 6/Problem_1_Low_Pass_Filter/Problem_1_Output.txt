@@ -1,0 +1,16 @@
+This output has been obtained by running the Problem_1.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+No text output was generated.
+
+Remarks:
+-------------------
+The low pass filter is supposed to only allow lower frequencies to pass through, while blocking 
+out higher frequencies. In our plot, we see that at RC = 1, the output waveform is significantly 
+lower in amplitude than V_in, but for the smaller values of RC (at RC = 0.01), the waveform is 
+almost identical to V_in.
+
+This plot shows that we can change how "strict" our low-pass filter is, by just varying the 
+product of resistance and capacitance used in the circuit.
