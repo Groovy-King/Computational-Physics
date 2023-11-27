@@ -1,0 +1,16 @@
+This output has been obtained by running the Problem_14.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+The solution to the given system is: 
+        V_1 = 3.72549 V
+        V_2 = 3.43137 V
+        V_3 = 2.7451 V
+        V_4 = 2.2549 V
+        V_5 = 1.56863 V
+        V_6 = 1.27451 V
+
+Remarks:
+------------------
+The remaining output (solution of the n = 10**4 system) is saved in the file 'potentials.txt'

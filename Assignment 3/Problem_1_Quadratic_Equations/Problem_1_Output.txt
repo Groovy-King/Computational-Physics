@@ -1,0 +1,31 @@
+This output has been obtained by running the Problem_1.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+The roots of the equation 0.001x**2 + 1000x + 0.001 = 0 are: -9.999894245993346e-07 and -999999.999999
+The value of the function at these points is:
+         f(x1) = 1.0575401665491313e-08
+         f(x2) = 7.247924804689582e-08
+
+The roots of the equation 0.001x**2 + 1000x + 0.001 = 0, obtained by the rationalised expression, are: -1.000000000001e-06 and -1000010.5755125057
+The value of the function at these points is:
+         f(x1) = 0.0
+         f(x2) = 10575.62534720993
+
+The roots of the equation 0.001x**2 + 1000x + 0.001 = 0, obtained by the more accurate method, are: -1.000000000001e-06 and -999999.999999
+The value of the function at these points is:
+         f(x1) = 0.0
+         f(x2) = 7.247924804689582e-08
+
+Remarks:
+-------------------
+In the given problem, we see that a = c <<< b. Thus, sqrt(b**2 - 4*a*c) is very close to b 
+numerically. In part (a), this small quantity only appears in the numerator. However, in part (b),
+this quantity appears in the denominator, which leads to significant round-off error in the 
+calculations. This is evident from the fact that the value of the function at the calculated root is
+of the order of 10**4, whereas the corresponding value in the first part is of the order of 10**(-7).
+
+In general, the first method gives us accurate results as long as a is not too small (i.e close to 
+precision of the system used). Similarly, the second method gives us accurate results as long as
+(-b -/+ sqrt(b**2 - 4*a*c)) is not too small.

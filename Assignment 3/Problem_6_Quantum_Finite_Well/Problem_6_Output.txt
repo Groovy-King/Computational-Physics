@@ -1,0 +1,10 @@
+This output has been obtained by running the Problem_6.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+The energy corresponding to n = 0 is: 0.07408191412652748 eV
+The energy corresponding to n = 1 is: 3.3849803820027873 eV
+The energy corresponding to n = 2 is: 6.017013565779975 eV
+The energy corresponding to n = 3 is: 19.134396455565035 eV
+There are only 4 bound States!

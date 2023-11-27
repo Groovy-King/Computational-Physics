@@ -1,0 +1,11 @@
+This output has been obtained by running the Problem_7.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+The root near 0.05 is 0.033765242898423975
+The root near 0.2 is 0.16939530676686765
+The root near 0.4 is 0.3806904069584
+The root near 0.6 is 0.619309593041593
+The root near 0.8 is 0.8306046932331476
+The root near 0.95 is 0.9662347571015699

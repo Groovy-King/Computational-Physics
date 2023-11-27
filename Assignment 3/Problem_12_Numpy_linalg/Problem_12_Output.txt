@@ -1,0 +1,16 @@
+This output has been obtained by running the Problem_12.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+The solution to the given system is (using numpy.linalg.solve):
+        V1 = 2.9999999999999996 V
+        V2 = 1.6666666666666665 V
+        V3 = 3.3333333333333326 V
+        V4 = 2.0 V
+
+The solution to the given system is (using code from Problem 10):
+        V1 = 3.0 V
+        V2 = 1.6666666666666665 V
+        V3 = 3.3333333333333335 V
+        V4 = 2.0 V

@@ -1,0 +1,46 @@
+This output has been obtained by running the Problem_16.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+Using a 10x10 Matrix: 
+
+The First energy level is: 5.8364 eV
+The Second energy level is: 11.1811 eV
+The Third energy level is: 18.6629 eV
+The Fourth energy level is: 29.1442 eV
+The Fifth energy level is: 42.6551 eV
+The Sixth energy level is: 59.1853 eV
+The Seventh energy level is: 78.7294 eV
+The Eighth energy level is: 101.2855 eV
+The Ninth energy level is: 126.8514 eV
+The Tenth energy level is: 155.5553 eV
+
+
+Using a 100x100 Matrix: 
+
+The First energy level is: 5.8364 eV
+The Second energy level is: 11.1811 eV
+The Third energy level is: 18.6629 eV
+The Fourth energy level is: 29.1442 eV
+The Fifth energy level is: 42.6551 eV
+The Sixth energy level is: 59.1852 eV
+The Seventh energy level is: 78.7293 eV
+The Eighth energy level is: 101.2849 eV
+The Ninth energy level is: 126.8506 eV
+The Tenth energy level is: 155.4257 eV
+
+The maximum relative discrepancy between the two calculations is: 0.0008332885107724258
+
+The integral of |psi_0(x)|**2 from 0 to L is: 0.9999999968666686
+The integral of |psi_1(x)|**2 from 0 to L is: 0.9999999996922296
+The integral of |psi_2(x)|**2 from 0 to L is: 0.9999999531387078
+
+Remarks:
+---------------
+From the calculations using 10x10 Matrix and 100x100 Matrix, we see that the obtained energy levels
+are so close, that the 10x10 matrix serves as a very good approximation for our purposes.
+
+In the last part, we have calculated the integral of psi(x)**2 from x = 0 to L, and we see that the 
+result is indeed very close to 1. The small deviation from 1 is due to the inherent error in the 
+method used to evaluvate the integral (Simpson's method) and can be ignored while drawing our conclusion.

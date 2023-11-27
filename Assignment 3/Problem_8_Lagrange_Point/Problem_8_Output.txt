@@ -1,0 +1,21 @@
+This output has been obtained by running the Problem_8.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+
+------------------------------------
+         Secant Method
+------------------------------------
+The approximate root after 1 iterations is: 376712000.0, with error: 0.9830108942640532
+The approximate root after 2 iterations is: 379229045.50150406, with error: 0.006637269827724946
+The approximate root after 3 iterations is: 380045305.2587963, with error: 0.002147795923268594
+The approximate root after 4 iterations is: 379695927.1907756, with error: 0.0009201522665929435
+The approximate root after 5 iterations is: 379727107.4537625, with error: 8.211229162957531e-05
+The approximate root after 6 iterations is: 379729357.5833823, with error: 5.9256140588042786e-06
+
+The program successfully terminated in 6 iterations 
+The obtained root, within relative tolerance 5e-05 is: 379729357.58338
+The root obtained using standard python library function fsolve is: 379729341.79674
+
+The distance to the Lagrange point from Earth's center is: 3.79729E+08 m

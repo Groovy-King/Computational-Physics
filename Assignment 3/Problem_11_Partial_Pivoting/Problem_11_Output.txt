@@ -1,0 +1,72 @@
+This output has been obtained by running the Problem_11.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+The solution to the system given in Problem 10 is (with partial pivoting):
+        V1 = 3.0 V
+        V2 = 1.6666666666666665 V
+        V3 = 3.3333333333333335 V
+        V4 = 2.0 V
+
+
+The given system is Ax = b, with:
+A = 
+[[ 0.  1.  4.  1.]
+ [ 3.  4. -1. -1.]
+ [ 1. -4.  1.  5.]
+ [ 2. -2.  1.  3.]]
+
+b = 
+[-4.  3.  9.  7.]
+
+The solution to the given system is (with partial pivoting):
+        x1 = 1.6190476190476193
+        x2 = -0.4285714285714288
+        x3 = -1.2380952380952381
+        x4 = 1.3809523809523807
+
+The vector Ax - b is:
+[[ 0.00000000e+00]
+ [ 0.00000000e+00]
+ [-1.11022302e-16]
+ [ 0.00000000e+00]]
+
+
+Output with No pivoting:
+--------------------------- 
+The solution to the system given in Problem 10 is (with partial pivoting):
+        V1 = 3.0 V
+        V2 = 1.6666666666666665 V
+        V3 = 3.3333333333333335 V
+        V4 = 2.0 V
+
+
+The given system is Ax = b, with:
+A = 
+[[ 0.  1.  4.  1.]
+ [ 3.  4. -1. -1.]
+ [ 1. -4.  1.  5.]
+ [ 2. -2.  1.  3.]]
+
+b = 
+[-4.  3.  9.  7.]
+D:\College Stuff\Semester 6\Computational Physics\Assignments\Assignment 3\.\Import_Modules\Gaussian_Elimination.py:27: RuntimeWarning: divide by zero encountered in double_scalars
+  b[i] = b[i] / A[i, i]
+D:\College Stuff\Semester 6\Computational Physics\Assignments\Assignment 3\.\Import_Modules\Gaussian_Elimination.py:28: RuntimeWarning: divide by zero encountered in true_divide
+  A[i] = A[i] / A[i, i]
+D:\College Stuff\Semester 6\Computational Physics\Assignments\Assignment 3\.\Import_Modules\Gaussian_Elimination.py:28: RuntimeWarning: invalid value encountered in true_divide
+  A[i] = A[i] / A[i, i]
+D:\College Stuff\Semester 6\Computational Physics\Assignments\Assignment 3\.\Import_Modules\Gaussian_Elimination.py:27: RuntimeWarning: invalid value encountered in double_scalars
+  b[i] = b[i] / A[i, i]
+The solution to the given system is (with no pivoting):
+        x1 = nan 
+        x2 = nan 
+        x3 = nan 
+        x4 = nan 
+
+The vector Ax - b is:
+[[nan]
+ [nan]
+ [nan]
+ [nan]]

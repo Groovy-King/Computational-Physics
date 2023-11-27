@@ -1,0 +1,31 @@
+This output has been obtained by running the Problem_2.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+The value of the derivative is computed to be: 1.010000000000001
+The true value of the derivative is: 1
+The difference between the computed and true value is: 0.010000000000000897
+
+The value of the derivative, computed using d = 0.0001 is: 1.0000999999998899
+The value of the derivative, computed using d = 1e-06 is: 1.0000009999177333
+The value of the derivative, computed using d = 1e-08 is: 1.0000000039225287
+The value of the derivative, computed using d = 1e-10 is: 1.000000082840371
+The value of the derivative, computed using d = 1e-12 is: 1.0000889005833413
+The value of the derivative, computed using d = 1e-14 is: 0.9992007221626509
+
+Remarks:
+-------------------
+The error for various values of d in (b) is shown in the figure 'Error_Plot.png'.
+
+First, we see that the computed and true values in part (a) do not agree. This is because of the 
+non-zero value of d used in computing the derivative. Since d = 10**(-2) is not very close
+to zero, the higher order terms in the Taylor expansion of f(x + d) is non-vanishing. This leads
+to the observed disagreement in Part (a).
+
+Coming to part (b), as we decrease the value of d, we see that the higher order terms become 
+increasingly less significant, giving us the initial increase in accuracy. However, as d gets
+too small, we start seeing errors due to the limitations of the machine being used. For example,
+the difference f(x + d) - f(x) could become smaller than the precision allowed by the system.
+Also, division by d leads to truncation errors, causing the computed value of the derivative to 
+deviate from the true value. This is clearly seen in the figure 'Error_Plot.png'.

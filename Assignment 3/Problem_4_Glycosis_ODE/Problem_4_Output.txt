@@ -1,0 +1,13 @@
+This output has been obtained by running the Problem_4.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+The analytical solution to the stationary point is:
+         x = 2
+         y = 0.4
+
+The program failed to converge within 99 iterations
+
+The program converged within 2 iterations!
+The root of the given system of equations is: [2.  0.4]

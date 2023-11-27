@@ -1,0 +1,21 @@
+This output has been obtained by running the Problem_13.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+The solution to the given system is: 
+        x1 = (1.6936936936936937-0.16216216216216217j)
+        x2 = (1.4504504504504503+0.29729729729729715j)
+        x3 = (1.855855855855856-0.1351351351351352j)
+
+
+The Amplitudes and Phases of these solutions are: 
+        V1: Amplitude = 1.7014 V, Phase = -5.4691 degrees
+        V2: Amplitude = 1.4806 V, Phase = 11.5834 degrees
+        V3: Amplitude = 1.8608 V, Phase = -4.1647 degrees
+
+
+The Voltages as a function of time are: 
+         V1(t) = 1.7014 exp(iwt + -0.0955)
+         V2(t) = 1.4806 exp(iwt + 0.2022)
+         V3(t) = 1.8608 exp(iwt + -0.0727)

@@ -1,0 +1,36 @@
+This output has been obtained by running the Problem_5.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+------------------------------------
+         Bisection Method
+------------------------------------
+The approximate root after 1 iterations is: 3e-06
+The approximate root after 2 iterations is: 2.4999999999999998e-06
+The approximate root after 3 iterations is: 2.75e-06
+The approximate root after 4 iterations is: 2.875e-06
+The approximate root after 5 iterations is: 2.9375000000000003e-06
+The approximate root after 6 iterations is: 2.9062500000000003e-06
+The approximate root after 7 iterations is: 2.890625e-06
+The approximate root after 8 iterations is: 2.8984375e-06
+The approximate root after 9 iterations is: 2.89453125e-06
+The approximate root after 10 iterations is: 2.896484375e-06
+The approximate root after 11 iterations is: 2.8974609375e-06
+The approximate root after 12 iterations is: 2.89794921875e-06
+The approximate root after 13 iterations is: 2.8977050781250003e-06
+The approximate root after 14 iterations is: 2.8978271484375004e-06
+The approximate root after 15 iterations is: 2.8977661132812503e-06
+The approximate root after 16 iterations is: 2.8977966308593754e-06
+The approximate root after 17 iterations is: 2.897781372070313e-06
+The approximate root after 18 iterations is: 2.897773742675782e-06
+The approximate root after 19 iterations is: 2.897769927978516e-06
+The approximate root after 20 iterations is: 2.8977718353271487e-06
+The approximate root after 21 iterations is: 2.8977727890014653e-06
+The maxima of I occurs at l_max = 2.8977727890014653e-06 m
+
+The value of Wien's constant is: b = l_max T = 0.002897772789001465 K-m
+The standard value of Wien's constant is: b = 0.002897771955 K-m
+
+The Temperature of the Sun's surface is: T_Sun = 5772.455754982998 K
+The standard value obtained from scientific literature is: T_Sun = 5778 K

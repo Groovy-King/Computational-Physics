@@ -1,0 +1,45 @@
+This output has been obtained by running the Problem_9.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+The approximate root after 0 iterations is: [3.99990401 2.00014398], with error: 1.4999040115186175
+The approximate root after 1 iterations is: [3.97991487 2.03007608], with error: 0.029932095587923424
+The approximate root after 2 iterations is: [3.95995706 2.0601058 ], with error: 0.03002972054032549
+The approximate root after 3 iterations is: [3.93994384 2.09010125], with error: 0.029995451435204323
+The approximate root after 4 iterations is: [3.91993427 2.12009201], with error: 0.02999076449487159
+The approximate root after 5 iterations is: [3.89993613 2.15009463], with error: 0.030002614387639515
+The approximate root after 6 iterations is: [3.87993682 2.18009478], with error: 0.030000154964077375
+The approximate root after 7 iterations is: [3.8599368  2.21009482], with error: 0.03000003338075885
+The approximate root after 8 iterations is: [3.83993681 2.24009484], with error: 0.030000022302945073
+The approximate root after 9 iterations is: [3.8199368  2.27009481], with error: 0.02999997446343805
+The approximate root after 10 iterations is: [3.79993679 2.30009481], with error: 0.029999996412086727
+The approximate root after 11 iterations is: [3.77993679 2.33009481], with error: 0.029999998963056385
+The approximate root after 12 iterations is: [3.75993679 2.36009481], with error: 0.029999999718760773
+The approximate root after 13 iterations is: [3.7399368  2.39009481], with error: 0.029999996855305078
+The approximate root after 14 iterations is: [3.7199368 2.4200948], with error: 0.029999993599767016
+The approximate root after 15 iterations is: [3.69993681 2.45009478], with error: 0.029999980850239805
+The approximate root after 16 iterations is: [3.67993685 2.48009472], with error: 0.029999944250114652
+The approximate root after 17 iterations is: [3.65993696 2.51009456], with error: 0.02999983903401393
+The approximate root after 18 iterations is: [3.63993727 2.5400941 ], with error: 0.029999536666697413
+The approximate root after 19 iterations is: [3.61993815 2.57009277], with error: 0.029998670615651868
+The approximate root after 20 iterations is: [3.59994069 2.60008897], with error: 0.029996196391573804
+The approximate root after 21 iterations is: [3.57994792 2.63007811], with error: 0.029989145397571804
+The approximate root after 22 iterations is: [3.55996852 2.66004721], with error: 0.02996910190016866
+The approximate root after 23 iterations is: [3.54002699 2.68995951], with error: 0.029912294373194648
+The approximate root after 24 iterations is: [3.5201923  2.71971155], with error: 0.029752036909138635
+The approximate root after 25 iterations is: [3.50065611 2.74901584], with error: 0.029304296259758278
+The approximate root after 26 iterations is: [3.48193414 2.7770988 ], with error: 0.02808295355849566
+The approximate root after 27 iterations is: [3.46529779 2.80205332], with error: 0.02495452603512005
+The approximate root after 28 iterations is: [3.45320058 2.82019914], with error: 0.0181458134682142
+The approximate root after 29 iterations is: [3.44781313 2.82828031], with error: 0.008081172311641183
+The approximate root after 30 iterations is: [3.44697218 2.82954174], with error: 0.001261428550667798
+The approximate root after 31 iterations is: [3.44695463 2.82956806], with error: 2.6324158845181245e-05
+The approximate root after 32 iterations is: [3.44695462 2.82956807], with error: 1.1152793355506674e-08
+
+The program successfully terminated in 32 iterations
+The obtained root, within absolute tolerance 1e-06 is: [3.4469546 2.8295681]
+The Voltage at Junction 1 is: 3.446954618858577 V
+The Voltage at Junction 2 is: 2.829568071712138 V
+
+The difference in potential between Junction 1 and 2 is: 0.617386547146439 V

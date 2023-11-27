@@ -1,0 +1,20 @@
+This output has been obtained by running the Problem_10.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+The solution to the given system is:
+        V1 = 3.0 V
+        V2 = 1.6666666666666665 V
+        V3 = 3.3333333333333335 V
+        V4 = 2.0 V
+
+The vector Ax - b is:
+[[ 0.00000000e+00]
+ [-1.11022302e-16]
+ [ 0.00000000e+00]
+ [ 0.00000000e+00]]
+
+ Remarks:
+-------------------
+As seen above, the given values of V1, V2, V3 and V4 do indeed solve the system Ax = b.
