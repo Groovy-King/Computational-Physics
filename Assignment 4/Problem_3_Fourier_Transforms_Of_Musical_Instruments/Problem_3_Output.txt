@@ -1,0 +1,18 @@
+This output has been obtained by running the Problem_3.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+The most predominant frequency in the piano waveform is: 525.231 Hz
+The most predominant frequency in the trumpet waveform is: 1043.847 Hz
+
+Remarks:
+-------------------
+Based on the above observations, we see that the pitch of a trumpet is higher than that
+of a piano, which is what we expect from our everyday experiences.
+
+The note being played on the piano is the C_5, which officially has a frequency of 523.25 Hz. 
+We see that our obtained value is in close agreement with this result.
+
+Similarly, the note being played on the trumpet is the C_6 note, which officially has a frequency
+of 1046.5 Hz. We see that our obtained value is in close agreement with this result.

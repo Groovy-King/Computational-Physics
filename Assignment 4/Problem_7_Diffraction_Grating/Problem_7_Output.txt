@@ -1,0 +1,12 @@
+This output has been obtained by running the Problem_7.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+No text output was generated.
+
+Remarks:
+-------------------
+It is clearly seen that the results obtained in Homework 2, Problem 16 match very closely to the
+plot and diffraction pattern generated in this problem. This shows that our implementation of FFT
+to solve the question did give consistent results.

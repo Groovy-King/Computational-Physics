@@ -1,0 +1,6 @@
+This output has been obtained by running the Problem_2.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+The approximate time period obtained by DFT of the sunspot numbers is: 125.0 months

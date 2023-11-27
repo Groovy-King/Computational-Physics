@@ -1,0 +1,26 @@
+This output has been obtained by running the Problem_4.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+No text output was generated.
+
+Remarks:
+-------------------
+Part (d):
+--------------------
+We see that the red curve in the figure 'Fourier Smoothening with ten percent coeffs.png' is smoother 
+than the data given in the file 'dow.txt'. This is due to the fact that we have removed higher frequency
+terms from the Fourier sum, leading to slower, smoother variation in the red curve, compared to the blue 
+one. This is even more evident when we consider the figure 'Fourier Smoothening with two percent coeffs.png',
+where red curve is much more slowly varying as compared to the blue data.
+
+Smoothening the Square Waveform:
+-------------------------------------
+As seen in the image 'Square Waveform Fourier Smoothening.png', the constant region of the given
+waveform is no longer constant after the Fourier Smoothening. This is due to the fact that we have 
+completely removed the higher frequencies from the Fourier series. Adding a finite combination of
+plane waves makes it impossible to achieve a constant function over an interval of non-zero length.
+It is easily seen that adding more frequencies tends to lessen the wiggles observed and lead to 
+closer approximation to the true function. This argument explains why the Fourier Smoothening is
+seen to have wiggles, while the true function is constant over a region.
