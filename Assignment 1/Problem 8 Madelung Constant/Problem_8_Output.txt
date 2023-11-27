@@ -1,0 +1,15 @@
+This output has been obtained by running the Problem_8.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+
+Please enter the value of L: 150
+The Madelung constant is calculated to be: -1.741866592020
+The runtime of this program is: 67.27449798583984 seconds.
+
+-------------------
+Remarks:
+-------------------
+The standard literature value of Madelung constant for NaCl is approximately -1.747565, which agrees
+with the result above. 

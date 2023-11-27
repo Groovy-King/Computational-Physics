@@ -1,0 +1,14 @@
+This output has been obtained by running the Problem_18.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+Part (b) and (d):
+-------------------
+From Least squares, we get:
+         m = 4.088227358517516e-15
+         c = -1.7312358039813558 V/Hz
+
+The Calculated value of Planck's constant is: h = 6.549340228345061e-34 J-s
+The Standard value of Planck's constant is: h_std = 6.626e-34 J-s
+The deviation in the calculated value of h is: 1.1569539941886333 %

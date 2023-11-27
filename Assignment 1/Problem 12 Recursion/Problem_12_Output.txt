@@ -1,0 +1,8 @@
+This output has been obtained by running the Problem_12.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+The 101st Catalan number is: C_100 = 8.96519947090131e+56
+
+The GCD of 108 and 192 is: 12

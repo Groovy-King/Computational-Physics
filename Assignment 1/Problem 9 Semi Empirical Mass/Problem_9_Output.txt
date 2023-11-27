@@ -1,0 +1,134 @@
+This output has been obtained by running the Problem_9.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Part (a):
+-------------------
+Please enter the subpart you wish to solve: a
+Please enter the mass number: 58
+Please enter the atomic number: 28
+
+The binding energy of an atom with A = 58, and Z = 28, is: 493.9356 MeV
+
+Part (b):
+-------------------
+Please enter the subpart you wish to solve: b
+Please enter the mass number: 58
+Please enter the atomic number: 28
+
+The binding energy per nucleon of an atom with A = 58, and Z = 28, is: 8.5161 MeV/nucleon
+
+Part (c):
+-------------------
+Please enter the subpart you wish to solve: c
+Please enter the atomic number: 28
+
+The mass number of the most stable nucleus with Z = 28 is A = 58
+The binding energy per nucleon of such an atom is: 8.516131151747729
+
+Part (d):
+-------------------
+Please enter the subpart you wish to solve: d
+
+The most stable nucleus with Z = 1 has mass number A = [2]
+The most stable nucleus with Z = 2 has mass number A = [4]
+The most stable nucleus with Z = 3 has mass number A = [6]
+The most stable nucleus with Z = 4 has mass number A = [8]
+The most stable nucleus with Z = 5 has mass number A = [10]
+The most stable nucleus with Z = 6 has mass number A = [12]
+The most stable nucleus with Z = 7 has mass number A = [15]
+The most stable nucleus with Z = 8 has mass number A = [16]
+The most stable nucleus with Z = 9 has mass number A = [19]
+The most stable nucleus with Z = 10 has mass number A = [20]
+The most stable nucleus with Z = 11 has mass number A = [23]
+The most stable nucleus with Z = 12 has mass number A = [24]
+The most stable nucleus with Z = 13 has mass number A = [27]
+The most stable nucleus with Z = 14 has mass number A = [28]
+The most stable nucleus with Z = 15 has mass number A = [31]
+The most stable nucleus with Z = 16 has mass number A = [32]
+The most stable nucleus with Z = 17 has mass number A = [35]
+The most stable nucleus with Z = 18 has mass number A = [36]
+The most stable nucleus with Z = 19 has mass number A = [39]
+The most stable nucleus with Z = 20 has mass number A = [41]
+The most stable nucleus with Z = 21 has mass number A = [43]
+The most stable nucleus with Z = 22 has mass number A = [46]
+The most stable nucleus with Z = 23 has mass number A = [47]
+The most stable nucleus with Z = 24 has mass number A = [50]
+The most stable nucleus with Z = 25 has mass number A = [51]
+The most stable nucleus with Z = 26 has mass number A = [54]
+The most stable nucleus with Z = 27 has mass number A = [55]
+The most stable nucleus with Z = 28 has mass number A = [58]
+The most stable nucleus with Z = 29 has mass number A = [59]
+The most stable nucleus with Z = 30 has mass number A = [62]
+The most stable nucleus with Z = 31 has mass number A = [63]
+The most stable nucleus with Z = 32 has mass number A = [66]
+The most stable nucleus with Z = 33 has mass number A = [69]
+The most stable nucleus with Z = 34 has mass number A = [70]
+The most stable nucleus with Z = 35 has mass number A = [73]
+The most stable nucleus with Z = 36 has mass number A = [74]
+The most stable nucleus with Z = 37 has mass number A = [77]
+The most stable nucleus with Z = 38 has mass number A = [78]
+The most stable nucleus with Z = 39 has mass number A = [81]
+The most stable nucleus with Z = 40 has mass number A = [82]
+The most stable nucleus with Z = 41 has mass number A = [85]
+The most stable nucleus with Z = 42 has mass number A = [86]
+The most stable nucleus with Z = 43 has mass number A = [89]
+The most stable nucleus with Z = 44 has mass number A = [92]
+The most stable nucleus with Z = 45 has mass number A = [93]
+The most stable nucleus with Z = 46 has mass number A = [96]
+The most stable nucleus with Z = 47 has mass number A = [97]
+The most stable nucleus with Z = 48 has mass number A = [100]
+The most stable nucleus with Z = 49 has mass number A = [101]
+The most stable nucleus with Z = 50 has mass number A = [104]
+The most stable nucleus with Z = 51 has mass number A = [105]
+The most stable nucleus with Z = 52 has mass number A = [108]
+The most stable nucleus with Z = 53 has mass number A = [111]
+The most stable nucleus with Z = 54 has mass number A = [112]
+The most stable nucleus with Z = 55 has mass number A = [115]
+The most stable nucleus with Z = 56 has mass number A = [116]
+The most stable nucleus with Z = 57 has mass number A = [119]
+The most stable nucleus with Z = 58 has mass number A = [120]
+The most stable nucleus with Z = 59 has mass number A = [123]
+The most stable nucleus with Z = 60 has mass number A = [124]
+The most stable nucleus with Z = 61 has mass number A = [127]
+The most stable nucleus with Z = 62 has mass number A = [130]
+The most stable nucleus with Z = 63 has mass number A = [131]
+The most stable nucleus with Z = 64 has mass number A = [134]
+The most stable nucleus with Z = 65 has mass number A = [135]
+The most stable nucleus with Z = 66 has mass number A = [138]
+The most stable nucleus with Z = 67 has mass number A = [139]
+The most stable nucleus with Z = 68 has mass number A = [142]
+The most stable nucleus with Z = 69 has mass number A = [143]
+The most stable nucleus with Z = 70 has mass number A = [146]
+The most stable nucleus with Z = 71 has mass number A = [149]
+The most stable nucleus with Z = 72 has mass number A = [150]
+The most stable nucleus with Z = 73 has mass number A = [153]
+The most stable nucleus with Z = 74 has mass number A = [154]
+The most stable nucleus with Z = 75 has mass number A = [157]
+The most stable nucleus with Z = 76 has mass number A = [158]
+The most stable nucleus with Z = 77 has mass number A = [161]
+The most stable nucleus with Z = 78 has mass number A = [164]
+The most stable nucleus with Z = 79 has mass number A = [165]
+The most stable nucleus with Z = 80 has mass number A = [168]
+The most stable nucleus with Z = 81 has mass number A = [169]
+The most stable nucleus with Z = 82 has mass number A = [172]
+The most stable nucleus with Z = 83 has mass number A = [173]
+The most stable nucleus with Z = 84 has mass number A = [176]
+The most stable nucleus with Z = 85 has mass number A = [179]
+The most stable nucleus with Z = 86 has mass number A = [180]
+The most stable nucleus with Z = 87 has mass number A = [183]
+The most stable nucleus with Z = 88 has mass number A = [184]
+The most stable nucleus with Z = 89 has mass number A = [187]
+The most stable nucleus with Z = 90 has mass number A = [190]
+The most stable nucleus with Z = 91 has mass number A = [191]
+The most stable nucleus with Z = 92 has mass number A = [194]
+The most stable nucleus with Z = 93 has mass number A = [195]
+The most stable nucleus with Z = 94 has mass number A = [198]
+The most stable nucleus with Z = 95 has mass number A = [199]
+The most stable nucleus with Z = 96 has mass number A = [202]
+The most stable nucleus with Z = 97 has mass number A = [205]
+The most stable nucleus with Z = 98 has mass number A = [206]
+The most stable nucleus with Z = 99 has mass number A = [209]
+The most stable nucleus with Z = 100 has mass number A = [210]
+
+The most stable nucleus with Z <= 100 is: Z = 24
+The binding energy per nucleon of the most stable nucleus is: 8.532622751365931 MeV/nucleon

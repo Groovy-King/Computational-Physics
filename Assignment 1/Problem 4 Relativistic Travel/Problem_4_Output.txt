@@ -1,0 +1,16 @@
+This output has been obtained by running the Problem_4.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+Please enter the distance between Earth and the planet (in light years): 10
+Please enter the speed of the spaceship (as a fraction of speed of light): 0.99
+
+The time taken in Earth's reference frame is: 10.1010101010101 years
+The time taken in the Spaceship's reference frame is: 1.424922826228878 years
+
+-------------------
+Remarks:
+-------------------
+Since the spaceship's speed is very close to 'c', the time elapsed in the spaceship 
+is much smaller (almost 10%) than the time elapsed for someone on Earth.

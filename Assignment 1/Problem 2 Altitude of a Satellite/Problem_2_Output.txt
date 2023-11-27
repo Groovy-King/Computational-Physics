@@ -1,0 +1,58 @@
+This output has been obtained by running the Problem_2.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+
+Part b)
+-----------------------------------------------
+
+T = 1 day (Geosynchronous Orbit)
+-------------------
+Output:
+-------------------
+Please enter the desired Time period: 1
+Please enter the unit used in the above input (sec/min/hr/day): day
+The satellite would have a time period of 1.0 day at a distance of 35827 km from the Earth's surface.
+
+T = 90 minutes
+-------------------
+Output:
+-------------------
+Please enter the desired Time period: 90
+Please enter the unit used in the above input (sec/min/hr/day): min
+The satellite would have a time period of 90.0 min at a distance of 250.32 km from the Earth's surface.
+
+T = 45 minutes
+-------------------
+Output:
+-------------------
+Please enter the desired Time period: 45
+Please enter the unit used in the above input (sec/min/hr/day): min
+The satellite would have a time period of 45.0 min at a distance of -2210.6 km from the Earth's surface.
+Such a satellite is not possible!
+
+-------------------
+Remarks:
+-------------------
+The radius of the Earth is approximately 6378 km. From the above calculations, we see that a satellite that orbits very close
+to the Earth's surface has a time period of 90 minutes (ignoring the effects of air drag). However, it is quite clear that it 
+is not possible to achieve a time period of 45 minutes around the Earth, as the orbit would have to be smaller than the planet's radius.
+
+
+Part c)
+-----------------------------------------------
+Remarks:
+-------------------
+The reason for this fact is explained in 'Solar and Sidereal days.png', saved in this folder. The output for T = 23.93 days is shown below:
+
+-------------------
+Output:
+-------------------
+Please enter the desired Time period: 23.93
+Please enter the unit used in the above input (sec/min/hr/day): hr
+The satellite would have a time period of 23.93 hr at a distance of 35745 km from the Earth's surface.
+
+-------------------
+Remarks:
+-------------------
+As we see above, the difference between a solar day and a sidereal day leads to a change of roughly 35827 - 35745 km = 82 km 
+for the Geosynchronous orbit.  

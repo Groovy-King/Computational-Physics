@@ -1,0 +1,33 @@
+This output has been obtained by running the Problem_6.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Orbit of planet Earth
+-------------------
+Output:
+-------------------
+Please enter the distance at the perihelion (in m): 1.4710 * 10**11
+Please enter the velocity at the perihelion (in m/s): 3.0287 * 10**4
+
+The distance at apohelion l_2 is 152203426488.958 m
+The velocity at apohelion v_2 is 29271.4678162861 m/s
+The time period of motion T is 1.00139305574841 years 
+
+The eccentricity of the orbit is: 0.0170510125755154
+
+Orbit of Halley's comet
+-------------------
+Output:
+-------------------
+Please enter the distance at the perihelion (in m): 8.7830 * 10**10
+Please enter the velocity at the perihelion (in m/s): 5.4529 * 10**4
+
+The distance at apohelion l_2 is 5472738862158.55 m
+The velocity at apohelion v_2 is 875.116133005297 m/s
+The time period of motion T is 80.1891993747754 years 
+
+The eccentricity of the orbit is: 0.968409706928472
+
+-------------------
+Remarks:
+-------------------
+The time periods of both the Earth and the Halley's comet match the expected values closely.

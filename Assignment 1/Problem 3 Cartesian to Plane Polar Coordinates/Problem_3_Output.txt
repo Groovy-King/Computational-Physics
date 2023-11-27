@@ -1,0 +1,64 @@
+This output has been obtained by running the Problem_3.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+-------------------
+Remarks:
+-------------------
+The script Problem_3.py is executed for different values of x, and y. The following details
+the outputs obtained in each case.
+
+x = 1, y = 1
+-------------------
+Output:
+-------------------
+Please enter the value of x (in m): 1
+Please enter the value of y (in m): 1
+The given point in Cartesian Coordinates is: 
+        x = 1.0 m 
+        y = 1.0 m 
+
+The same point in Plane Polar Coordinates is: 
+        r = 1.4142 m 
+        theta = 45.000 degrees
+
+x = -1, y = 1
+-------------------
+Output:
+-------------------
+Please enter the value of x (in m): -1
+Please enter the value of y (in m): 1
+The given point in Cartesian Coordinates is: 
+        x = -1.0 m 
+        y = 1.0 m 
+
+The same point in Plane Polar Coordinates is: 
+        r = 1.4142 m 
+        theta = 135.00 degrees
+
+x = -1, y = -1
+-------------------
+Output:
+-------------------
+Please enter the value of x (in m): -1
+Please enter the value of y (in m): -1
+The given point in Cartesian Coordinates is: 
+        x = -1.0 m 
+        y = -1.0 m 
+
+The same point in Plane Polar Coordinates is: 
+        r = 1.4142 m 
+        theta = 225.00 degrees
+
+x = 1, y = -1
+-------------------
+Output:
+-------------------
+Please enter the value of x (in m): 1
+Please enter the value of y (in m): -1
+The given point in Cartesian Coordinates is: 
+        x = 1.0 m 
+        y = -1.0 m 
+
+The same point in Plane Polar Coordinates is: 
+        r = 1.4142 m 
+        theta = 315.00 degrees

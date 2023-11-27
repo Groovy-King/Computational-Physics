@@ -1,0 +1,8 @@
+This output has been obtained by running the Problem_1.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+
+Please enter the height of the tower in meters: 100
+The time taken for a ball to fall freely from a tower of height 100.0 m is: 4.5152 s

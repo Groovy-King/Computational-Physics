@@ -1,0 +1,13 @@
+This output has been obtained by running the Problem_5.py saved in this folder. 
+Any figures that were printed have also been saved in the same folder.
+
+Output:
+-------------------
+Please enter the mass of the particle (in terms of electron mass): 1
+Please enter the energy of the particle (in eV): 10
+Please enter the potential barrier (in eV): 9
+
+The probability of Reflection is: 0.26987
+The probability of Transmission is: 0.73013
+For verification, the total probability is printed below: 
+        R_p + T_p = 1.0000
